@@ -1,2 +1,4 @@
-# kn4ck3r-SDK-DUMPER
-A WORKING UE4 Dumper (works on Fortnite)
+# kn4ck3r-Sdk-Generator-4.25
+This is kn4ck3r's sdk generator ported to unreal engine 4.25 and above with unreal's new property system
+
+Some of this code is really shit
